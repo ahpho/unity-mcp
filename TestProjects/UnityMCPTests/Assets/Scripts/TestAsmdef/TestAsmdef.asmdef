@@ -1,7 +1,9 @@
 {
     "name": "TestAsmdef",
     "rootNamespace": "TestNamespace",
-    "references": [],
+    "references": [
+        "jillejr.newtonsoft.json-for-unity"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

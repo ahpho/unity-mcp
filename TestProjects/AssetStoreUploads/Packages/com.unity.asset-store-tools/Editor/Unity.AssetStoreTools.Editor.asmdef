@@ -4,7 +4,8 @@
     "references": [
         "Unity.RenderPipelines.Universal.Runtime",
         "Unity.RenderPipelines.Core.Runtime",
-        "Unity.RenderPipelines.HighDefinition.Runtime"
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "jillejr.newtonsoft.json-for-unity"
     ],
     "includePlatforms": [
         "Editor"
